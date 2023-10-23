@@ -1,0 +1,9 @@
+info:
+
+  app:
+    name: 'pizza-api'
+    description: 'Pizza API'
+    profile: 'default'
+
+server:
+  port: ${PORT:8081}
